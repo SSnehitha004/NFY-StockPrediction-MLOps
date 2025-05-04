@@ -18,6 +18,6 @@ MLflow tracks experiments, logs metrics, and manages models. Below are screensho
 ![Image](https://github.com/user-attachments/assets/67a01841-b2c8-433e-b135-26f7502791e2)
 
 ## Project Structure
-utils.py: Data fetching, sentiment analysis, and preprocessing <br>
-train.py: Model training, evaluation, and MLflow logging. <br>
-stkdashboard.py: Streamlit app for predictions and visualizations.
+- utils.py: Data fetching, sentiment analysis, and preprocessing <br>
+- train.py: Model training, evaluation, and MLflow logging. <br>
+- stkdashboard.py: Streamlit app for predictions and visualizations.
