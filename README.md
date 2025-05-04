@@ -11,6 +11,8 @@ This project predicts Infosys (`INFY.NS`) stock price movements using a RandomFo
 ## Demo
 Watch a video of the Streamlit dashboard running locally: <br>
 https://github.com/user-attachments/assets/0fe44832-0e29-450a-a0b5-61df9f7879b9
+![Image](https://github.com/user-attachments/assets/a92c4263-bfe3-4ccc-9983-f2768506d481)
+![Image](https://github.com/user-attachments/assets/70e0ecc6-7b00-46e0-8dcb-b5bddf692d47)
 
 ## MLflow UI
 MLflow tracks experiments, logs metrics, and manages models. Below are screenshots of the MLflow UI:
